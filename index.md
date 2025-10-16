@@ -8,11 +8,11 @@ Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidu
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[LinkedIn](https://www.linkedin.com/in/yi-li-60a307261/)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+My email address is yi.li@helsinki.fi. 
 
 ## Courses I've Taken
 
@@ -21,6 +21,8 @@ My email address is of the form first_name.last_name@helsinki.fi.
 [Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
 
 ## Projects
+
+Commandline-course Github project
 
 ## Misc. 
 
