@@ -4,7 +4,8 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello, my name is Yi Li, major in Finnish language and culture and minor in digital humanities at University of Helsinki. I wish to pursue a PhD after graduation from my master’s. My work primarily explores Sino-Finnish communication and relations in arts and culture. I have experience in Finnish teaching, Finnish-Chinese translation, and English-Chinese translation and interpretation, which has laid a solid foundation to integrate research and practical needs in the industry.
+
 
 ## Find me on
 
