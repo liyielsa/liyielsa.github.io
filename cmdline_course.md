@@ -8,9 +8,16 @@ This course develops practical skills for working in Unix-like environments, inc
 
 ## Module 1: Introduction to Command Line Environments
 
-1. Setting up the Command Line Environment
-2. Basics on command line and UNIX system
+- Setting up the Command Line Environment
+- Basics on command line and UNIX system
 
+This week I set up the UNIX system on my Mac laptop and grasped a basic understanding of terminal and its usage. I got to know basic commands in terminal and here is the part of the command list:
+
+| command | explanation |
+|-------|-------|
+| mv | changing the name of the file or move files into directories |
+| ls | list |
+| cp | copy, make a copy doc on the computer |
 
 ## Module 2: Text processing in UNIX
 
@@ -18,6 +25,9 @@ This course develops practical skills for working in Unix-like environments, inc
 2. Simple regular expressions
 3. Formatted text files
 
+This week I learned about regular expressions and its wide usage in the field of language technology. Also I got hands on regular expression in text processing.
+
+![我的终端截图](/Users/liyi/desktop/re.png)
 
 ## Module 3: Scripting, Configuration Files and Installing Programs
 
