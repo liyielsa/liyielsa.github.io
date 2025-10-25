@@ -21,9 +21,9 @@ This week I set up the UNIX system on my Mac laptop and grasped a basic understa
 
 ## Module 2: Text processing in UNIX
 
-1. Basic text processing commands
-2. Simple regular expressions
-3. Formatted text files
+- Basic text processing commands
+- Simple regular expressions
+- Formatted text files
 
 This week I learned about regular expressions and its wide usage in the field of language technology. Also I got hands on regular expression in text processing.
 
@@ -31,19 +31,25 @@ This week I learned about regular expressions and its wide usage in the field of
 
 ## Module 3: Scripting, Configuration Files and Installing Programs
 
-1. Basics on scirpts
-2. Environment variables
-3. Configuration files
-4. Root user
+- Basics on scirpts
+- Environment variables
+- Configuration files
+- Root user
+
+This week I got to know bash scripts and got a slight taste of its usage. I also got the idea of environment variables.
+Basic information of root user was also mentioned in the tutorial videos.
 
 ## Module 4: Using ssh, scp and Version Control
 
-1. Setting up CSC remote server access
-2. Version control using Git and Github
+- Setting up CSC remote server access
+- Version control using Git and Github
 
+This week I registered for CSC and set up the remote server access. I also tried version control using Git and Github.
+Exercise was also performed on this topic.
 
 ## Final Assignment: Building webpages using Github pages
 
-1. Installing Jekyll and usage
-2. Markdown language
+- Installing Jekyll and usage
+- Markdown language
 
+This week I deepended my understanding of markdown langugae and tried it on Github webpages. I also used formerly learnt knowledge to set up Jekyll on my terminal. I workd on my webpage by using these tools.
