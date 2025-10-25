@@ -6,6 +6,7 @@ layout: default
 
 Hello, my name is Yi Li, major in Finnish language and culture and minor in digital humanities at University of Helsinki. I wish to pursue a PhD after graduation from my master’s. My work primarily explores Sino-Finnish communication and relations in arts and culture. I have experience in Finnish teaching, Finnish-Chinese translation, and English-Chinese translation and interpretation, which has laid a solid foundation to integrate research and practical needs in the industry.
 
+[Here is my CV.](https://www.overleaf.com/read/wrgtprqstnmr#181616)
 
 ## Find me on
 
