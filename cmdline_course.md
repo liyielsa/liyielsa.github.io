@@ -2,29 +2,38 @@
 layout: default
 ---
 
-## Introduction
+## Introduction to the course
 
-Hello, my name is Yi Li, major in Finnish language and culture and minor in digital humanities at University of Helsinki. I wish to pursue a PhD after graduation from my master’s. My work primarily explores Sino-Finnish communication and relations in arts and culture. I have experience in Finnish teaching, Finnish-Chinese translation, and English-Chinese translation and interpretation, which has laid a solid foundation to integrate research and practical needs in the industry.
+This course develops practical skills for working in Unix-like environments, including navigating the command line, managing files, processing text data, writing simple scripts, installing and running programs, using version control, working on remote servers, and creating a webpage with GitHub Pages.
 
-[Here is my CV.](https://www.overleaf.com/read/wrgtprqstnmr#181616)
+## Module 1: Introduction to Command Line Environments
 
-## Find me on
+1. Setting up the Command Line Environment
+2. Basics on command line and UNIX system
 
-[LinkedIn](https://www.linkedin.com/in/yi-li-60a307261/)
-[Github](https://github.com/liyielsa/liyielsa.github.io)
 
-## Contact
+## Module 2: Text processing in UNIX
 
-My email address is yi.li@helsinki.fi. 
+1. Basic text processing commands
+2. Simple regular expressions
+3. Formatted text files
 
-## Courses I've Taken
 
-[Command-Line Tools for Linguists / Komentorivityökalut lingvisteille]([https://courses.helsinki.fi/enjoying-cheese-I](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2526-261401a1-c550-4436-91b9-7edf4a1a3b57/KIK-LG221)), fall 2025
+## Module 3: Scripting, Configuration Files and Installing Programs
 
-## Projects
+1. Basics on scirpts
+2. Environment variables
+3. Configuration files
+4. Root user
 
-Commandline-course Github project
+## Module 4: Using ssh, scp and Version Control
 
-## Misc. 
+1. Setting up CSC remote server access
+2. Version control using Git and Github
 
-[One of my favourite songs](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7?si=72e815219c504240)
+
+## Final Assignment: Building webpages using Github pages
+
+1. Installing Jekyll and usage
+2. Markdown language
+
