@@ -20,12 +20,10 @@ My email address is yi.li@helsinki.fi.
 
 [Command-Line Tools for Linguists / Komentorivityökalut lingvisteille]([https://courses.helsinki.fi/enjoying-cheese-I](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2526-261401a1-c550-4436-91b9-7edf4a1a3b57/KIK-LG221)), fall 2025
 
-[Programming for Digital Humanities]([[https://courses.helsinki.fi/enjoying-cheese-I](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2526-261401a1-c550-4436-91b9-7edf4a1a3b57/KIK-LG221)](https://studies.helsinki.fi/kurssit/toteutus/hy-opt-cur-2526-d85cca5c-0a41-4332-9f2b-5f8d82d602c9/LDA-H511))), fall 2025
-
 ## Projects
 
 Commandline-course Github project
 
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[One of my favourite songs]([https://en.wikipedia.org/wiki/Cheese](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7?si=72e815219c504240)) 
