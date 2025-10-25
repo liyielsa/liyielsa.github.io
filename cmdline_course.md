@@ -27,7 +27,7 @@ This week I set up the UNIX system on my Mac laptop and grasped a basic understa
 
 This week I learned about regular expressions and its wide usage in the field of language technology. Also I got hands on regular expression in text processing.
 
-![我的终端截图](/Users/liyi/desktop/re.png)
+/assets/img/re.png
 
 ## Module 3: Scripting, Configuration Files and Installing Programs
 
