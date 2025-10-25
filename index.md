@@ -27,4 +27,4 @@ Commandline-course Github project
 
 ## Misc. 
 
-[One of my favourite songs]([https://en.wikipedia.org/wiki/Cheese](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7?si=72e815219c504240)) 
+[One of my favourite songs](https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7?si=72e815219c504240)
